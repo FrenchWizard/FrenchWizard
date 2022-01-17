@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FrenchWizard
 - 👀 I’m interested in using Economics in conjuction of data analysis to solve problems
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on anything Economics related
+- 💞️ I’m looking to collaborate on anything economics related
 - 📫 How to reach me massocleo@gmail.com
 
 <!---
